@@ -1,5 +1,6 @@
--  I’m IsabelleM&M
+-  I’m Isabelle Marques Melo
 -  Pronouns: She/Her
+-  20
 
 <!---
 IsabelleMeM/IsabelleMeM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
